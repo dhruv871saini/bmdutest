@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bmdutest/static/css/main.b3b5f568.css",
+    "main.js": "/bmdutest/static/js/main.746e7de6.js",
+    "index.html": "/bmdutest/index.html",
+    "main.b3b5f568.css.map": "/bmdutest/static/css/main.b3b5f568.css.map",
+    "main.746e7de6.js.map": "/bmdutest/static/js/main.746e7de6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b3b5f568.css",
+    "static/js/main.746e7de6.js"
+  ]
+}
